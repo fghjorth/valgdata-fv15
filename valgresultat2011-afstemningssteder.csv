@@ -309,9 +309,9 @@ afstemningsarea_id	opstillingskreds_id	afstemningsarea_navn	afstemningssted	stem
 308	60	Våbensted	Landsbyen\n Krårup Møllevej 1\n 4990 Sakskøbing	987	831	821	6	1314	Våbensted
 309	60	Stubbekøbing	Stubbekøbing Hallen\n Gl.Landevej 1\n 4850 Stubbekøbing	3042	2627	2600	6	1315	Stubbekøbing
 310	60	Horreby	Horrebyhallen\n Nykøbingvej 198.B, Horreby\n 4800 Nykøbing F.	2574	2264	2249	6	1316	Horreby
-311	60	Idestrup	Mødestedet "Blæksprutten" Idestrup\n Kirkevej 19\n 4872 Idestrup	1615	1443	1425	6	1317	Idestrup
+311	60	Idestrup	Mødestedet Blæksprutten Idestrup\n Kirkevej 19\n 4872 Idestrup	1615	1443	1425	6	1317	Idestrup
 312	60	Væggerløse	Væggerløse Forsamlingshus\n Væggerløsevej 6\n 4873 Væggerløse	2837	2575	2557	6	1318	Væggerløse
-313	60	Gedser	"Blæksprutten" Frivilligcenter\n Molzaugade 2\n 4874 Gedser	1225	1054	1043	6	1319	Gedser
+313	60	Gedser	Blæksprutten Frivilligcenter\n Molzaugade 2\n 4874 Gedser	1225	1054	1043	6	1319	Gedser
 314	59	Vordingborg	Hollænderhaven\n Fuglebakken 3\n 4760 Vordingborg	4322	3663	3629	6	1293	Vordingborg By
 315	59	Masnedsund	Medborgerhuset\n Skovvej 2\n 4760 Vordingborg	3220	2789	2763	6	1294	Masnedsund M.V
 316	59	Nyråd	Vintersbølle Hallen\n Bakkebøllevej 6\n 4760 Vordingborg	2181	1968	1955	6	1295	Nyråd
@@ -1311,7 +1311,7 @@ afstemningsarea_id	opstillingskreds_id	afstemningsarea_navn	afstemningssted	stem
 1310	3	Hjallerup	Kulturhuset\n Nørre Allé 3\n Hjallerup	2978	2687	2669	1	54	Hjallerup
 1311	3	Gjøl	Gjøl Kro\n Fjordgade 18, Gjøl\n 	912	844	840	1	74	Gjøl
 1312	3	Ingstrup	Ingstrup Forsamlingshus\n Tværgade 11\n Ingstrup	562	482	472	1	75	Ingstrup
-1313	3	Klokkerholm	'Tagrenden'\n Borgergade 8\n Klokkerholm	1123	1013	1001	1	55	Klokkerholm
+1313	3	Klokkerholm	Tagrenden\n Borgergade 8\n Klokkerholm	1123	1013	1001	1	55	Klokkerholm
 1314	3	Thorup	Thorup Aktivitetshus\n Tolstrupvej 5\n Thorup	286	261	257	1	56	Thorup
 1315	3	V. Hjermitslev	Lunden\n Assenbækvej 33\n V. Hjermitslev	508	451	444	1	76	V. Hjermitslev
 1316	3	Ørum	Ørum Kultur- og Forsamlingshus\n Bjørnbækvej 38\n Ørum	401	359	354	1	57	Ørum
