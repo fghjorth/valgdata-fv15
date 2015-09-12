@@ -862,7 +862,7 @@ afstemningsarea_id	opstillingskreds_id	afstemningsarea_navn	afstemningssted	stem
 861	32	Taulov	Elbo-Hallen\n Tingvejen 24\n 7000 Fredericia	3962	3613	3572	4	662	Taulov
 862	32	Søndermarken	Skjoldborgvejens Skole\n Indg. fra Skjoldborgsvej\n Kørestole fra 	7481	6312	6256	4	663	Søndermarken
 863	32	Bøgeskov	Bøgeskovhallen\n Bøgeskovvej 37 C\n 7000 Fredericia	1450	1351	1345	4	664	Bøgeskov
-864	32	Indre By	"Tøjhuset"\n Gothersgade 38\n 7000 Fredericia	5522	4425	4371	4	665	Indre By
+864	32	Indre By	Tøjhuset\n Gothersgade 38\n 7000 Fredericia	5522	4425	4371	4	665	Indre By
 865	33	Centrum Nord	Parkhallen\n Fynsvej 49\n Kolding	5411	4631	4590	4	666	Centrum Nord
 866	33	Nordbyen	Dronning Dorothea Skolen\n Dyrehavevej 108 B\n Kolding	3532	2817	2789	4	667	Nordbyen
 867	33	Vestbyen	Munkevængets Hal\n Munkevænget 2\n Kolding	4308	3711	3687	4	668	Vestbyen
@@ -1416,7 +1416,7 @@ afstemningsarea_id	opstillingskreds_id	afstemningsarea_navn	afstemningssted	stem
 1415	9	Veddum-Skelund	Veddum Sal\n Veddum Hovedgade 3, Veddum\n 9560 Hadsund	915	773	769	1	242	Veddum
 1416	9	Als	Als Kro og Badehotel\n Øster Hurupvej 1, Als\n 9560 Hadsund	2050	1749	1744	1	245	Als
 1417	9	Hørby	Rosendalhallen\n Døstrupvej 23, Hørby\n 9500 Hobro	2602	2328	2308	1	247	Hørby
-1418	9	Onsild	'Pigernes Kro', Sdr. Onsild\n Viborg Landevej 56,Sdr. Onsild\n 950	1698	1496	1478	1	249	Onsild
+1418	9	Onsild	Pigernes Kro, Sdr. Onsild\n Viborg Landevej 56,Sdr. Onsild\n 950	1698	1496	1478	1	249	Onsild
 1419	9	Hobro	Hobro Idrætscenter\n Amerikavej 22\n 9500 Hobro	7963	6717	6646	1	254	Hobro
 1420	6	Sønderbroskolen	Sønderbroskolen\n Sjællandsgade 2\n 9000 Aalborg	7980	6688	6614	1	133	Sønderbroskolen
 1421	6	Gigantium	Gigantium\n Willy Brandts Vej 31\n 9220 Aalborg Øst	6523	5432	5375	1	NULL	NULL
