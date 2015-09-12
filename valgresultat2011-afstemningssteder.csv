@@ -1374,8 +1374,8 @@ afstemningsarea_id	opstillingskreds_id	afstemningsarea_navn	afstemningssted	stem
 1373	7	Hanstholm	Hanstholm Hallen\n Fyrvej 104\n 7730 Hanstholm	1537	1314	1304	1	185	Hanstholm
 1374	7	Ræhr/Vigsø	Landsbycenter Ræhr\n Smedebakken 6, Ræhr\n 7730 Hanstholm	723	618	616	1	186	Ræhr/Vigsø
 1375	7	Nykøbing	Nykøbing-Hallen\n Nygade 29\n Nykøbing Mors	7245	6138	6080	1	168	Nykøbing
-1376	7	Klitmøller	Ældrecenter "Klitrosen"\n Krovej 3, Klitmøller\n 7700 Thisted	636	566	560	1	187	Klitmøller
-1377	7	Frøstrup	Ældrecenter "Trye"\n Søndergade 36\n 7741 Frøstrup	853	762	758	1	188	Frøstrup
+1376	7	Klitmøller	Ældrecenter Klitrosen \n Krovej 3, Klitmøller\n 7700 Thisted	636	566	560	1	187	Klitmøller
+1377	7	Frøstrup	Ældrecenter Trye \n Søndergade 36\n 7741 Frøstrup	853	762	758	1	188	Frøstrup
 1378	7	Lild	Bjerget Efterskole\n Kærupvej 9, Bjerget\n 7741 Frøstrup	230	212	211	1	189	Lild
 1379	7	Bedsted	Bedsted Kro\n Linnetsgade 1\n 7755 Bedsted	1661	1385	1376	1	190	Bedsted
 1380	7	Hurup	Hurup Hallerne\n Idrætsvej 7\n 7760 Hurup	2643	2263	2253	1	191	Hurup
